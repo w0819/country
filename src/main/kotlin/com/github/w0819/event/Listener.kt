@@ -1,8 +1,7 @@
-package event
+package com.github.w0819.event
 
 import com.github.w0819.plugin.Main
 import com.github.w0819.plugin.openCountry
-import net.kyori.adventure.text.Component
 import net.kyori.adventure.text.Component.text
 import org.bukkit.Material
 import org.bukkit.event.EventHandler
